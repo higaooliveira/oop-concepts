@@ -1,0 +1,1 @@
+# Code examples of basic OOP concepts to help explain these concepts on Dextra's internship training
